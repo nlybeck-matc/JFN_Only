@@ -13,7 +13,7 @@ jake_is_fun = False
 jake_fun = 1
 
 while jake_fun == True:
-    print('Hi Jake!!')
+    print('Hi Jake!! This is iteration ' + str(jake_fun) + '!')
     if jake_fun == 100000000000000:
         print('Hope this was fun Jake. Until next time!')
         break
