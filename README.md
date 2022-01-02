@@ -1,3 +1,3 @@
 # JFN_Only
-# Only for the one and only, Rick Bultman.
-#I mean Nick Bultman
+## If Only Jake Was As Smart As Us...
+Have you ever had that one friend who talks a big game but you know he or she is not as smart as they think they are? As the creators of this repository, we feel you. That is why we created this. It is all about having some clean (no threat to security or actually ruining the machine) fun that will make your friend want to rip his or her hair out!
